@@ -1,0 +1,11 @@
+{
+  "name": "nodeboost",
+  "version": "1.0.0",
+  "description": "A JIT Compilation Middleware for Node.js to Improve Performance",
+  "main": "/src/nodeboost.jsnodeboost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musab Ismael",
+  "license": "MIT"
+}
